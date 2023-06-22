@@ -24,14 +24,4 @@ Si haces clic en alguno de los logotipos de los minijuegos, serás redirigido a 
 
 Además, hemos incluido un archivo detallado donde describimos diversos problemas que enfrentamos durante el desarrollo del código y las soluciones que implementamos para superarlos. Esperamos que esta documentación sea útil tanto para aquellos interesados en aprender de nuestros desafíos técnicos como para aquellos que deseen contribuir al proyecto.
 
-## Contribución
 
-Nos encantaría recibir contribuciones de la comunidad para mejorar y expandir FRV GAMES. Si tienes ideas para nuevos minijuegos, características adicionales o mejoras en el código existente, no dudes en abrir un "issue" o enviar una solicitud de extracción. Tu ayuda será muy apreciada.
-
-## Agradecimientos
-
-Queremos agradecer a la comunidad de desarrolladores de código abierto por sus valiosos recursos y a GitHub por brindarnos una plataforma para compartir y colaborar en este proyecto.
-
-¡Esperamos que disfrutes de FRV GAMES y te diviertas explorando los minijuegos que hemos creado!
-
-</div>
