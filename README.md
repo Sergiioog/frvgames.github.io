@@ -22,7 +22,7 @@ Si haces clic en alguno de los logotipos de los minijuegos, serás redirigido a 
 
 ## Documentación
 
-En la carpeta de documentación, hemos incluido un archivo detallado donde describimos diversos problemas que enfrentamos durante el desarrollo del código y las soluciones que implementamos para superarlos. Esperamos que esta documentación sea útil tanto para aquellos interesados en aprender de nuestros desafíos técnicos como para aquellos que deseen contribuir al proyecto.
+Además, hemos incluido un archivo detallado donde describimos diversos problemas que enfrentamos durante el desarrollo del código y las soluciones que implementamos para superarlos. Esperamos que esta documentación sea útil tanto para aquellos interesados en aprender de nuestros desafíos técnicos como para aquellos que deseen contribuir al proyecto.
 
 ## Contribución
 
